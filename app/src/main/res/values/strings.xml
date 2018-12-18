@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SISWAprint</string>
+
+    <string-array name="print">
+        <item></item>
+        <item>Black and White</item>
+        <item>Colour</item>
+    </string-array>
+
+</resources>
